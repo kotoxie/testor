@@ -2,4 +2,4 @@
 
 CyberArk Credentials:
 username: IT_Admin
-password: CyberArk-Password123$
+password: CyberArkPassword123$
